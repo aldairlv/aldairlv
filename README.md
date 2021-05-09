@@ -5,7 +5,11 @@
 - 📫 How to reach me ...
 
 
-![](/img/programming.jpg)
+![](/images/programming.jpg)
+
+<img src="/images/easy.jpg"/>
+
+
 
 
 
