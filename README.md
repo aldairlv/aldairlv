@@ -5,9 +5,9 @@
 - 📫 How to reach me ...
 
 
-![](/images/programming.jpg)
+<!---![](/images/programming.jpg)--->
 
-<img src="/images/easy.jpg"/>
+<img src="/images/header.jpg"/>
 
 
 
