@@ -1,4 +1,4 @@
-#ALDAIR LÓPEZ---@ALDAIRLV
+# ALDAIR LÓPEZ---@ALDAIRLV
 <img src="/images/header.png"/>
 Hi, I'm aldair, I recently started studying computer engineering at the UPC. 
 
