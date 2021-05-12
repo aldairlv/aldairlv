@@ -7,7 +7,7 @@
 
 <!---![](/images/programming.jpg)--->
 
-<img src="/images/header.jpg"/>
+<img src="/images/header.png"/>
 
 
 
