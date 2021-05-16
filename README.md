@@ -1,4 +1,5 @@
 <img src="/images/header1.png"/>
+
 # ABOUT ME
 I recently started studying computer engineering at UPC. 
 
