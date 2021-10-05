@@ -4,7 +4,7 @@
 I recently started studying computer engineering at UPC. 
 
 
-- 👀 I’m interested in cybersecurity
+- 👀 I’m interested in cybersecurity <img align="right" width="200" src="/images/missminutes.gif">
 - 🌱 I’m currently learning all I can
 
 ## GOALS 2021
