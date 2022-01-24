@@ -7,8 +7,13 @@ I recently started studying computer engineering at UPC.
 - 👀 I’m interested in cybersecurity <img align="right" width="200" src="/images/missminutes.gif">
 - 🌱 I’m currently learning all I can
 
+
+<!--
+
 ## GOALS 2021
 I want to make a little website from the scratch. 25%
+
+-->
 
 <!--
  💞️ I’m looking to collaborate on 
